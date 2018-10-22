@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="no">
+	{% include head.html %}
+	<body>
+		<div class="container">
+			{% include top-nav.html %}
+			<div class="row">
+				{% if showSideNav %}
+					<div class="col-md-9" role="main">
+						{{ content }}
+					</div>
+					{% include side-nav.html %}
+				{% else %}
+					<div class="col-md-12" role="main">
+						{{ content }}
+					</div>
+				{% endif %}
+			</div>
+
+			{% include footer.html %}
+		</div>
+		{% include script.html %}
+	</body>
+</html>
