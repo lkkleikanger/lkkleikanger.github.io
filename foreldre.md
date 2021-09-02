@@ -8,6 +8,11 @@ headtitle: Om kodeklubben
 	<h2>Lær Kidsa Koding@Leikanger</h2>
 </div>
 
+<div id="kodeklubben" class="step" data-x="3500" data-y="2100" data-rotate="180" data-scale="6">
+	<p class="lead">Kidsa Koding er ein frivillig bevegelse som ynskjer å sette barn og unge i stand til å forstå og beherske si eiga rolle i det digital samfunnet, og at det skal vera like sjølvsagt å vera kreative og skapande som brukarar av teknologi.</p>
+	<div class="pull-right">Frå <a href="http://www.kodeklubben.no">kodeklubben.no</a></div>
+</div>
+
 <div id="programmers" class="step" data-x="850" data-y="3000" data-rotate="90" data-scale="6">
 
 	<h2>‘The Programmers of tomorrow are the Wizards of the Future…… 
@@ -15,11 +20,6 @@ headtitle: Om kodeklubben
 	<br>
 	You’re going to look like you have magic powers compared to everybody else.’</h2>
 	<div class="pull-right">Gabe Newell</div>
-</div>
-
-<div id="kodeklubben" class="step" data-x="3500" data-y="2100" data-rotate="180" data-scale="6">
-	<p class="lead">Kidsa Koding er ein frivillig bevegelse som ynskjer å sette barn og unge i stand til å forstå og beherske si eiga rolle i det digital samfunnet, og at det skal vera like sjølvsagt å vera kreative og skapande som brukarar av teknologi.</p>
-	<div class="pull-right">Frå <a href="http://www.kodeklubben.no">kodeklubben.no</a></div>
 </div>
 
 <div id="tiny" class="step" data-x="2825" data-y="2325" data-z="-3000" data-rotate="300" data-scale="1">
@@ -31,7 +31,7 @@ headtitle: Om kodeklubben
 </div>
 
 <div class="step">
-	<iframe width="1000" height="600" src="https://scratch.mit.edu"></iframe>
+	<img width="1000" height="600" src="images/scratch.png"></img>
 </div>
 
 <div id="ing" class="step" data-x="3500" data-y="-850" data-rotate="270" data-scale="6">
