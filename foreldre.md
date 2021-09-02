@@ -31,7 +31,7 @@ headtitle: Om kodeklubben
 </div>
 
 <div class="step">
-	<img width="1000" height="600" src="images/scratch.png"></img>
+	<img width="1000" height="600" src="images/Scratch.png"></img>
 </div>
 
 <div id="ing" class="step" data-x="3500" data-y="-850" data-rotate="270" data-scale="6">
